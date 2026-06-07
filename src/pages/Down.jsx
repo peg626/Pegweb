@@ -1,4 +1,4 @@
-import { Grid } from "./comp/grids"
+import { Grid } from "./comp/Grids"
 import Icon from "./comp/Icons"
 import { IconLink } from "./comp/Icons"
 export default function Down() {
